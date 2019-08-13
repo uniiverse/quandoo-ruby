@@ -1,0 +1,8 @@
+{
+  "apiPackage" : "quandoo",
+  "gemName": "quandoo",
+  "moduleName": "Quandoo",
+  "gemSummary": "A Ruby wrapper for the Quandoo API",
+  "gemDescription": "This gem maps all of the publicly available methods in the Quandoo API to a Ruby library",
+  "gemAuthor": "Joshua Kelly"
+}
